@@ -58,6 +58,9 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
 
+    <!-- Ambient settings -->
+    <string name="doze_summary">Advanced Ambient Display Preferences</string>
+
     <!-- Thermal profiles -->
     <string name="thermal_title">Thermal profiles</string>
     <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>

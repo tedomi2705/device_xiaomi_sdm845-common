@@ -112,6 +112,7 @@ PRODUCT_PACKAGES += \
 
 # Common init scripts
 PRODUCT_PACKAGES += \
+    fstab.zram \
     init.mi.btmac.sh \
     init.qcom.early_boot.sh \
     init.qcom.post_boot.sh \

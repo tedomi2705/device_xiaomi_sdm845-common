@@ -5,5 +5,5 @@
 -->
 <resources>
     <!-- PowerOffAlarmService -->
-    <bool name="config_powerOffAlarmEnabled">false</bool>
+    <bool name="config_powerOffAlarmEnabled">true</bool>
 </resources>
